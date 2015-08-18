@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">localizador</string>
+    <string name="hello_world">Localizador</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview"></string>
+    <string name="enviar">Enviar</string>
+    
+
+</resources>
